@@ -1,6 +1,19 @@
 package Ereditarieta_OOP;
 
 public class Persona {
+	
+	/*
+	 * completare con Segretario:
+	 * inserire stanza
+	 * riscirvere il saluto con: "Buongiorno dal Segretario"
+	 * 
+	 * 
+	 * Bidello:
+	 * inserire area
+	 * riscrivere il toString() con nome cognome e area
+	 * 
+	 */
+	
 	//La classe con le proprietà in comune tra tutte le figure
 	private String nome;
 	private String cognome;

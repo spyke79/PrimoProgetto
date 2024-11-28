@@ -1,0 +1,20 @@
+Esercizio sui File
+Chiedere all'untente di iserire una frase e memorizzarla dentro il file frasi.txt che si trova 
+nella cartella File.
+
+Ogni frase deve essere scritta su una nuova riga.
+
+Quando parte il programma l'utente può sceglere di:
+1) inserire una frase
+2) Leggwere tutte le frasi inserite nel file
+3) Cercare una frase da una parola
+4) Uscire dal programma.
+
+
+
+Esercizio su OOP
+
+Creare una Calsse Studente con: Nome Cognome Matricola
+Creare il costruttore della classe 
+Creare il metodo Saluta ritorno Ciao dallo studente nome
+

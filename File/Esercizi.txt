@@ -51,3 +51,38 @@ Parte 4
 Realizzare una classe ListaSpesa che chieda all'utente di inserire i prodotti acquistati e calcoli 
 il totale della spesa applicando gli opportuni sconti se il cliente ha la tessera fedeltà.
 
+
+ESERCIZI DataBase
+Es1:
+Creare un DB per la gestione di un'azienda. Il DB si chiama GestioneAziena
+
+Creare una Tabella per la gestione degli uffici di un azienda
+
+Per ogni ufficio si devono conoscere 
+Nome, Piano, Stanza, Interno.
+
+Per identificare l'ufficio utilizzo un ID numerico AutoIncrementale.
+
+Riempire il database con dati a piacere es:
+
+IT, 15, 15A, 152.
+Amministrazione, 14, 14B, 143
+Marketing, 14, 14A, 141
+
+Dopo aver completato il DB creare un software per la ricerca degli uffici.
+
+Il software deve richiedere se si vuole cercare per:
+ - Nome
+ - Piano
+ - Stanza
+ - Interno
+ 
+Il risultato sarà:
+ID 1 - Nome: IT - Piano: 15 - Stanza: 15A - Interno: 143
+ 
+Il software permette anche òla modificha di parametri dell'ufficio dopo aver chiesto quale ufficio modificare tramite id
+ 
+Il software permette anche la cancellazzione dell'ufficio tramite id
+
+Fare un menù per far decidere cosa fare inserire 0 per la chiusura del programma 
+
